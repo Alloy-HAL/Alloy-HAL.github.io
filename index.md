@@ -1,4 +1,4 @@
-# Alloy
+![alt text](logo.png "LOGO")
 ## What is Alloy?
 Alloy is an Open Source Project to provide a compiletime evaluated and optimized Hardware Abstraktion.
 ## Status
